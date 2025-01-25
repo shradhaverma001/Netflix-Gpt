@@ -3,7 +3,9 @@ A kind of Netflix application with the combination of GPT.
 
 - Create React App
 - Configured Tailwind CSS
-- 
+- Header
+- Login Form
+
 
 # Features
 - Login/Sign Up
